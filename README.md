@@ -1,2 +1,2 @@
 # engine-profile-card
-Created with CodeSandbox
+Engineのプロフィールカード作成テンプレート
